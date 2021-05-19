@@ -1,0 +1,1 @@
+Trying to figure out the difference between git diff and git diff --staged once more. Wish me luck in my journey.
